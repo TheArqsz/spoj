@@ -3,6 +3,5 @@ def nwd(a, b):
     
 n = int(input())
 for i in range(n):
-    inpt = input().split()
-    a,b = int(inpt[0]), int(inpt[1])
+    a,b = list(map(int, input().split()))
     print(nwd(a,b))
