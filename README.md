@@ -1,2 +1,3 @@
-# spoj
-My solutions for spoj challenges
+# SPOJ Solutions
+
+A few simple solutions for [SPOJ](https://pl.spoj.com) challenges
